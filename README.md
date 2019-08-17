@@ -1,6 +1,6 @@
 # Auto create
 This project automatically creates everything you need to start your project : 
-* navigates to you chosen directory
+* navigates to your chosen directory
 * creates a new folder named after your project
 * creates and initiates a github repo with the github API
 
@@ -30,3 +30,9 @@ This project automatically creates everything you need to start your project :
   ```
   echo "alias create='python ~/Dev/auto_create/create.py'" >> ~/.bash_profile
   ```
+  ## Your good to go! 
+  
+ To create a new project use this command : 
+ ```
+ create your_project_name
+ ```
