@@ -19,12 +19,12 @@ This project automatically creates everything you need to start your project :
   ```
 
   ## Change the paths/logins on the scripts
-    Go inside the script and change the location in which you want your projects to be created and the logins to use. 
-    ### Create a git token. 
-    * Go to https://github.com/settings/tokens
-    * Create a token and check "repo" for the scope
-    * Generate the token
-    * Copy/paste it to the script
+  Go inside the script and change the location in which you want your projects to be created and the logins to use. 
+  ### Create a git token. 
+  * Go to https://github.com/settings/tokens
+  * Create a token and check "repo" for the scope
+  * Generate the token
+  * Copy/paste it to the script
   ## Add the script to your aliases
   This is for MacOS especially because it does not load .bashrc by default.
   ```
