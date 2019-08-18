@@ -30,7 +30,7 @@ This project automatically creates everything you need to start your project :
   ```
   echo "alias create='python ~/Dev/auto_create/create.py'" >> ~/.bash_profile
   ```
-  ## Your good to go! 
+  ## You're good to go! 
   
  To create a new project use this command : 
  ```
